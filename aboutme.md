@@ -4,7 +4,7 @@ title: About me
 subtitle: Hello there!
 ---
 
-![]('assets/img/profile.jpg')
+![](assets/img/profile.jpg)
 My name is Lim Yong Kai. 
 
 ## My story
