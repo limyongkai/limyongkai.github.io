@@ -12,7 +12,7 @@ I am a student pursuing my Master of IT in Business at Singapore Management Univ
 ## Some of the tools I Use:
 
 ### Python Programming
-<img src="https://limyongkai.github.io/assets/img/python.png">
+<img src="https://limyongkai.github.io/assets/img/python.png" width="180">
 
 ### R Programming
 <img src="assets/img/R.png" width="80">
