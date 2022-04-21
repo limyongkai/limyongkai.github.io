@@ -3,7 +3,8 @@ layout: page
 title: About me
 subtitle: Hello there!
 ---
-![Installation steps](assets/img/profile-modified.png)
+
+<img src="https://limyongkai.github.io/assets/img/profile-modified.png" width="180">
 
 ## My story
 
