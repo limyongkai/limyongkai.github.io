@@ -14,19 +14,19 @@ I am a student pursuing my Master of IT in Business at Singapore Management Univ
 ## Some of the tools I Use:
 
 ### Python Programming
-[![python](img/python.png){width=180px}](https://www.python.org/)
+[![python](assets/img/python.png){width=180px}](https://www.python.org/)
 
 ### R Programming
-[![r](img/R.png){width=80px}](https://www.r-project.org/)
+[![r](assets/img/R.png){width=80px}](https://www.r-project.org/)
 
 ### SQL (Structured Query Language)
-[![SQL](img/SQL.png){width=80px}](https://en.wikipedia.org/wiki/SQL)
+[![SQL](assets/img/SQL.png){width=80px}](https://en.wikipedia.org/wiki/SQL)
 
 ### JMP Pro, SAS
-[![jmp](img/jmp.png){width=80px}](https://www.jmp.com/en_us/software/predictive-analytics-software.html)
+[![jmp](assets/img/jmp.png){width=80px}](https://www.jmp.com/en_us/software/predictive-analytics-software.html)
 
 ### SAS Enterprise Miner
-[![em](img/EM.png){width=80px}](https://www.sas.com/en_sg/software/enterprise-miner.html)
+[![em](assets/img/EM.png){width=80px}](https://www.sas.com/en_sg/software/enterprise-miner.html)
 
 ### Tableau, BI Visualization tool
-[![tableau](img/tableau.png){width=220px}](https://www.tableau.com/)
+[![tableau](assets/img/tableau.png){width=220px}](https://www.tableau.com/)
