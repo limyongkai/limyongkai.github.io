@@ -4,6 +4,9 @@ title: About me
 subtitle: Hello there!
 ---
 
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![book](assets/img/profile.JPG)
+</div>
 [![python](assets/img/profile.JPG){width=180px}]
 My name is Lim Yong Kai. 
 
