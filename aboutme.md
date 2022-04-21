@@ -15,19 +15,17 @@ I am a student pursuing my Master of IT in Business at Singapore Management Univ
 ### Python Programming
 <img src="assets/img/python.png" width="180">
 
-![python](assets/img/python.png =180x)(https://www.python.org/)
-
 ### R Programming
-[![r](assets/img/R.png){width=80px}](https://www.r-project.org/)
+<img src="assets/img/R.png" width="80">
 
 ### SQL (Structured Query Language)
-[![SQL](assets/img/SQL.png){width=80px}](https://en.wikipedia.org/wiki/SQL)
+<img src="assets/img/SQL.png" width="80">
 
 ### JMP Pro, SAS
-[![jmp](assets/img/jmp.png){width=80px}](https://www.jmp.com/en_us/software/predictive-analytics-software.html)
+<img src="assets/img/jmp.png" width="80">
 
 ### SAS Enterprise Miner
-[![em](assets/img/EM.png){width=80px}](https://www.sas.com/en_sg/software/enterprise-miner.html)
+<img src="assets/img/EM.png" width="80">
 
 ### Tableau, BI Visualization tool
-[![tableau](assets/img/tableau.png){width=220px}](https://www.tableau.com/)
+<img src="assets/img/tableau.png" width="220">
