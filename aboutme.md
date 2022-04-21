@@ -4,6 +4,8 @@ title: About me
 subtitle: Hello there!
 ---
 
+[<img alt="alt_text" width="40px" src="assets/img/profile-modified.png" width="200" />](https://www.google.com/)
+
 <div style="text-align: center"><img src="assets/img/profile-modified.png" width="200"></div>
 
 ## My story
