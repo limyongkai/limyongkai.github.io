@@ -16,16 +16,16 @@ I am a student pursuing my Master of IT in Business at Singapore Management Univ
 <img src="https://limyongkai.github.io/assets/img/python.png" width="180">
 
 ### R Programming
-<img src="assets/img/R.png" width="80">
+<img src="https://limyongkai.github.io/assets/img/R.png" width="80">
 
 ### SQL (Structured Query Language)
-<img src="assets/img/SQL.png" width="80">
+<img src="https://limyongkai.github.io/assets/img/SQL.png" width="80">
 
 ### JMP Pro, SAS
-<img src="assets/img/jmp.png" width="80">
+<img src="https://limyongkai.github.io/assets/img/jmp.png" width="80">
 
 ### SAS Enterprise Miner
-<img src="assets/img/EM.png" width="80">
+<img src="https://limyongkai.github.io/assets/img/EM.png" width="80">
 
 ### Tableau, BI Visualization tool
-<img src="assets/img/tableau.png" width="220">
+<img src="https://limyongkai.github.io/assets/img/tableau.png" width="220">
