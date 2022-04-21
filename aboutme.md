@@ -3,10 +3,7 @@ layout: page
 title: About me
 subtitle: Hello there!
 ---
-![Installation steps](assets/img/profile-modified.png)
-[<img alt="alt_text" width="40px" src="assets/img/profile-modified.png" width="200" />](https://www.google.com/)
-
-<div style="text-align: center"><img src="assets/img/profile-modified.png" width="200"></div>
+![Installation steps](assets/img/profile-modified.png =250x)
 
 ## My story
 
