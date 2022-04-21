@@ -5,7 +5,7 @@ subtitle: Hello there!
 ---
 
 <div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](assets/img/profile.JPG)
+    ![book](/assets/img/profile.JPG)
 </div>
 
 
