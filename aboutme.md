@@ -6,8 +6,6 @@ subtitle: Hello there!
 
 <div style="text-align: center"><img src="assets/img/profile-modified.png" width="200"></div>
 
-
-
 ## My story
 
 I am a student pursuing my Master of IT in Business at Singapore Management University. Graduating with a bachelor in Mechanical Engineering, I am embarking on a new journey into the Data Science industry. As an aspiring Data Scientist, I want to utilize my analytical acumen to find solutions and translate them into actionable insights using data.
@@ -15,7 +13,7 @@ I am a student pursuing my Master of IT in Business at Singapore Management Univ
 ## Some of the tools I Use:
 
 ### Python Programming
-[![python](assets/img/python.png){width=180px}](https://www.python.org/)
+![python](assets/img/python.png){width=180px}(https://www.python.org/)
 
 ### R Programming
 [![r](assets/img/R.png){width=80px}](https://www.r-project.org/)
