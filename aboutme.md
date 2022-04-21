@@ -4,7 +4,7 @@ title: About me
 subtitle: Hello there!
 ---
 
-<div style="text-align: center"><img src="assets/img/profile-modified.png"></div>
+<div style="text-align: center"><img src="assets/img/profile-modified.png" width="200"></div>
 
 
 
