@@ -4,7 +4,7 @@ title: About me
 subtitle: Hello there!
 ---
 
-<img src="https://limyongkai.github.io/assets/img/profile-modified.png" width="250" class="center">
+<img src="https://limyongkai.github.io/assets/img/profile-modified.png" width="250" class="aligncenter">
 
 ## My Journey
 
