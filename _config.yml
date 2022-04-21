@@ -17,7 +17,7 @@ navbar-links:
   Home: "https://limyongkai.github.io/"
   Portfolio: "portfolio"
   About Me: "aboutme"
-  icon: fas fa-adjust
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
