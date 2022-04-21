@@ -13,6 +13,8 @@ I am a student pursuing my Master of IT in Business at Singapore Management Univ
 ## Some of the tools I Use:
 
 ### Python Programming
+<img src="assets/img/python.png" width="48">
+
 ![python](assets/img/python.png =180x)(https://www.python.org/)
 
 ### R Programming
