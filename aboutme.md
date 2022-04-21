@@ -4,15 +4,7 @@ title: About me
 subtitle: Hello there!
 ---
 
-<style>
-d-title, d-byline {
-  display: none
-}
-</style>
-
-<div class=profile>
-<img src="assets/img/profile.jpg" class="profile-circle">
-  
+![]('assets/img/profile.jpg')
 My name is Lim Yong Kai. 
 
 ## My story
