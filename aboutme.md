@@ -13,7 +13,7 @@ I am a student pursuing my Master of IT in Business at Singapore Management Univ
 ## Some of the tools I Use:
 
 ### Python Programming
-![python](assets/img/python.png){width=180px}(https://www.python.org/)
+![python](assets/img/python.png =180px)(https://www.python.org/)
 
 ### R Programming
 [![r](assets/img/R.png){width=80px}](https://www.r-project.org/)
