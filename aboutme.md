@@ -3,8 +3,10 @@ layout: page
 title: About me
 subtitle: Hello there!
 ---
+<p align="center">
+  <img src="https://limyongkai.github.io/assets/img/profile-modified.png" width="250" class="aligncenter">
+</p>
 
-<img src="https://limyongkai.github.io/assets/img/profile-modified.png" width="250" class="aligncenter">
 
 ## My Journey
 
