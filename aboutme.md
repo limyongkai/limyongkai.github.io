@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Hello there!
 ---
-![Installation steps](assets/img/profile-modified.png){ width=50% }
+![Installation steps](assets/img/profile-modified.png){width=50%}
 
 ## My story
 
