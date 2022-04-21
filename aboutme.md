@@ -4,9 +4,8 @@ title: About me
 subtitle: Hello there!
 ---
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![book](/assets/img/profile.JPG)
-</div>
+<div style="text-align: right"><img src="assets/img/profile.JPG" width="100" /></div>
+
 
 
 ## My story
