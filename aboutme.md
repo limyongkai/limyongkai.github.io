@@ -6,7 +6,7 @@ subtitle: Hello there!
 
 <img src="https://limyongkai.github.io/assets/img/profile-modified.png" width="250">
 
-## My story
+## My Journey
 
 I am a student pursuing my Master of IT in Business at Singapore Management University. Graduating with a bachelor in Mechanical Engineering, I am embarking on a new journey into the Data Science industry. As an aspiring Data Scientist, I want to utilize my analytical acumen to find solutions and translate them into actionable insights using data.
 
